@@ -1,7 +1,7 @@
 # html-css-final-project
 Perfect_Properties_v21.12.18
 
-## Hosting on Netifly
+## Hosting on Netlifly
 
 https://eja-html-css-project.netlify.app/
 
